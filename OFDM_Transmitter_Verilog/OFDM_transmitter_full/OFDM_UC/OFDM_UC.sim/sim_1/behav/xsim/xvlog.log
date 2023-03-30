@@ -1,0 +1,118 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/Addressable_Delay_Line.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Addressable_Delay_Line
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/Addressable_Delay_Line_block.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Addressable_Delay_Line_block
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/Addressable_Delay_Line_block1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Addressable_Delay_Line_block1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/Addressable_Delay_Line_block10.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Addressable_Delay_Line_block10
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/Addressable_Delay_Line_block11.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Addressable_Delay_Line_block11
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/Addressable_Delay_Line_block12.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Addressable_Delay_Line_block12
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/Addressable_Delay_Line_block13.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Addressable_Delay_Line_block13
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/Addressable_Delay_Line_block14.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Addressable_Delay_Line_block14
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/Addressable_Delay_Line_block15.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Addressable_Delay_Line_block15
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/Addressable_Delay_Line_block16.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Addressable_Delay_Line_block16
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/Addressable_Delay_Line_block17.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Addressable_Delay_Line_block17
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/Addressable_Delay_Line_block18.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Addressable_Delay_Line_block18
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/Addressable_Delay_Line_block19.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Addressable_Delay_Line_block19
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/Addressable_Delay_Line_block2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Addressable_Delay_Line_block2
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/Addressable_Delay_Line_block20.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Addressable_Delay_Line_block20
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/Addressable_Delay_Line_block21.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Addressable_Delay_Line_block21
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/Addressable_Delay_Line_block22.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Addressable_Delay_Line_block22
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/Addressable_Delay_Line_block3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Addressable_Delay_Line_block3
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/Addressable_Delay_Line_block4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Addressable_Delay_Line_block4
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/Addressable_Delay_Line_block5.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Addressable_Delay_Line_block5
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/Addressable_Delay_Line_block6.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Addressable_Delay_Line_block6
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/Addressable_Delay_Line_block7.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Addressable_Delay_Line_block7
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/Addressable_Delay_Line_block8.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Addressable_Delay_Line_block8
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/Addressable_Delay_Line_block9.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Addressable_Delay_Line_block9
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/CICInterpolator.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CICInterpolator
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/CIC_Compensation_Interpolator.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CIC_Compensation_Interpolator
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/DitherGen.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DitherGen
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/FIRFilter1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FIRFilter1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/FIRFilter1_block.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FIRFilter1_block
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/FIRFilter1_block1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FIRFilter1_block1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/FIRFilter2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FIRFilter2
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/FIRFilter2_block.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FIRFilter2_block
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/FIRFilter2_block1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FIRFilter2_block1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/FilterTapSystolic.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FilterTapSystolic
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/FilterTapSystolicPreAdd.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FilterTapSystolicPreAdd
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/FilterTapSystolicPreAdd_block.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FilterTapSystolicPreAdd_block
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/FilterTapSystolicPreAdd_block1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FilterTapSystolicPreAdd_block1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/FilterTapSystolicPreAdd_block2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FilterTapSystolicPreAdd_block2
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/FilterTapSystolicPreAdd_block3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FilterTapSystolicPreAdd_block3
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/FilterTapSystolicPreAdd_block4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FilterTapSystolicPreAdd_block4
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/FilterTapSystolic_block.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FilterTapSystolic_block
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/FilterTapSystolic_block1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FilterTapSystolic_block1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/FilterTapSystolic_block2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FilterTapSystolic_block2
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/FirRdyLogic.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FirRdyLogic
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/FirRdyLogic_block.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FirRdyLogic_block
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/FirRdyLogic_block1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FirRdyLogic_block1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/FirRdyLogic_block2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FirRdyLogic_block2
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/FirRdyLogic_block3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FirRdyLogic_block3
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/FirRdyLogic_block4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FirRdyLogic_block4
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/Gain_Correction.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Gain_Correction
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/HDL_DUC.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module HDL_DUC
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/Halfband_Interpolator.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Halfband_Interpolator
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/LookUpTableGen.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module LookUpTableGen
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/Lowpass_Interpolator.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Lowpass_Interpolator
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/Mixer.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Mixer
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/NCO.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module NCO
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/OFDM_Transmitter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module OFDM_Transmitter
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/OFDM_UC.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module OFDM_UC
+ERROR: [VRFC 10-1247] port connections cannot be mixed ordered and named [D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/OFDM_UC.v:153]
+ERROR: [VRFC 10-2865] module 'OFDM_UC' ignored due to previous errors [D:/Digital Design/Graduation_Project/Projects/whdlOFDMTransmitter_up_con/OFDM_UC.v:47]

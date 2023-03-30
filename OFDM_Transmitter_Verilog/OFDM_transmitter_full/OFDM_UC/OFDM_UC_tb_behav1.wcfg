@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="OFDM_UC_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="OFDM_UC_tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="2413099669292fs"></ZoomEndTime>
+      <Cursor1Time time="12892000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="172"></NameColumnWidth>
+      <ValueColumnWidth column_width="94"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="131" />
+   <wvobject fp_name="/OFDM_UC_tb/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/clk_enable" type="logic">
+      <obj_property name="ElementShortName">clk_enable</obj_property>
+      <obj_property name="ObjectShortName">clk_enable</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/rawData_codeRateIndex" type="array">
+      <obj_property name="ElementShortName">rawData_codeRateIndex[1:0]</obj_property>
+      <obj_property name="ObjectShortName">rawData_codeRateIndex[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/ready_done" type="logic">
+      <obj_property name="ElementShortName">ready_done</obj_property>
+      <obj_property name="ObjectShortName">ready_done</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/ce_out_1" type="logic">
+      <obj_property name="ElementShortName">ce_out_1</obj_property>
+      <obj_property name="ObjectShortName">ce_out_1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/ready_done_enb" type="logic">
+      <obj_property name="ElementShortName">ready_done_enb</obj_property>
+      <obj_property name="ObjectShortName">ready_done_enb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/ready_addr" type="array">
+      <obj_property name="ElementShortName">ready_addr[18:0]</obj_property>
+      <obj_property name="ObjectShortName">ready_addr[18:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/ready_active" type="logic">
+      <obj_property name="ElementShortName">ready_active</obj_property>
+      <obj_property name="ObjectShortName">ready_active</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/ready_enb" type="logic">
+      <obj_property name="ElementShortName">ready_enb</obj_property>
+      <obj_property name="ObjectShortName">ready_enb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/ready_lastAddr" type="logic">
+      <obj_property name="ElementShortName">ready_lastAddr</obj_property>
+      <obj_property name="ObjectShortName">ready_lastAddr</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/resetn" type="logic">
+      <obj_property name="ElementShortName">resetn</obj_property>
+      <obj_property name="ObjectShortName">resetn</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/check5_done" type="logic">
+      <obj_property name="ElementShortName">check5_done</obj_property>
+      <obj_property name="ObjectShortName">check5_done</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/Out4_re_done" type="logic">
+      <obj_property name="ElementShortName">Out4_re_done</obj_property>
+      <obj_property name="ObjectShortName">Out4_re_done</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/ce_out_0" type="logic">
+      <obj_property name="ElementShortName">ce_out_0</obj_property>
+      <obj_property name="ObjectShortName">ce_out_0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/Out4_re_done_enb" type="logic">
+      <obj_property name="ElementShortName">Out4_re_done_enb</obj_property>
+      <obj_property name="ObjectShortName">Out4_re_done_enb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/txValid_addr" type="array">
+      <obj_property name="ElementShortName">txValid_addr[14:0]</obj_property>
+      <obj_property name="ObjectShortName">txValid_addr[14:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/Out4_re_lastAddr" type="logic">
+      <obj_property name="ElementShortName">Out4_re_lastAddr</obj_property>
+      <obj_property name="ObjectShortName">Out4_re_lastAddr</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/check4_done" type="logic">
+      <obj_property name="ElementShortName">check4_done</obj_property>
+      <obj_property name="ObjectShortName">check4_done</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/Out3_done" type="logic">
+      <obj_property name="ElementShortName">Out3_done</obj_property>
+      <obj_property name="ObjectShortName">Out3_done</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/Out3_done_enb" type="logic">
+      <obj_property name="ElementShortName">Out3_done_enb</obj_property>
+      <obj_property name="ObjectShortName">Out3_done_enb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/Out3_lastAddr" type="logic">
+      <obj_property name="ElementShortName">Out3_lastAddr</obj_property>
+      <obj_property name="ObjectShortName">Out3_lastAddr</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/check3_done" type="logic">
+      <obj_property name="ElementShortName">check3_done</obj_property>
+      <obj_property name="ObjectShortName">check3_done</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/txData_re_done" type="logic">
+      <obj_property name="ElementShortName">txData_re_done</obj_property>
+      <obj_property name="ObjectShortName">txData_re_done</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/txData_re_done_enb" type="logic">
+      <obj_property name="ElementShortName">txData_re_done_enb</obj_property>
+      <obj_property name="ObjectShortName">txData_re_done_enb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/txData_re_lastAddr" type="logic">
+      <obj_property name="ElementShortName">txData_re_lastAddr</obj_property>
+      <obj_property name="ObjectShortName">txData_re_lastAddr</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/check2_done" type="logic">
+      <obj_property name="ElementShortName">check2_done</obj_property>
+      <obj_property name="ObjectShortName">check2_done</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/txValid_done" type="logic">
+      <obj_property name="ElementShortName">txValid_done</obj_property>
+      <obj_property name="ObjectShortName">txValid_done</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/txValid_done_enb" type="logic">
+      <obj_property name="ElementShortName">txValid_done_enb</obj_property>
+      <obj_property name="ObjectShortName">txValid_done_enb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/txValid_active" type="logic">
+      <obj_property name="ElementShortName">txValid_active</obj_property>
+      <obj_property name="ObjectShortName">txValid_active</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/Data_Type_Conversion5_out1_addr" type="array">
+      <obj_property name="ElementShortName">Data_Type_Conversion5_out1_addr[18:0]</obj_property>
+      <obj_property name="ObjectShortName">Data_Type_Conversion5_out1_addr[18:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/Data_Type_Conversion1_out1_addr_delay_1" type="array">
+      <obj_property name="ElementShortName">Data_Type_Conversion1_out1_addr_delay_1[18:0]</obj_property>
+      <obj_property name="ObjectShortName">Data_Type_Conversion1_out1_addr_delay_1[18:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/tb_enb_delay" type="logic">
+      <obj_property name="ElementShortName">tb_enb_delay</obj_property>
+      <obj_property name="ObjectShortName">tb_enb_delay</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/phase_2_valid" type="logic">
+      <obj_property name="ElementShortName">phase_2_valid</obj_property>
+      <obj_property name="ObjectShortName">phase_2_valid</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/fp_valid" type="array">
+      <obj_property name="ElementShortName">fp_valid[31:0]</obj_property>
+      <obj_property name="ObjectShortName">fp_valid[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/rawData_valid" type="logic">
+      <obj_property name="ElementShortName">rawData_valid</obj_property>
+      <obj_property name="ObjectShortName">rawData_valid</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/status_valid" type="array">
+      <obj_property name="ElementShortName">status_valid[31:0]</obj_property>
+      <obj_property name="ObjectShortName">status_valid[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/holdData_valid" type="logic">
+      <obj_property name="ElementShortName">holdData_valid</obj_property>
+      <obj_property name="ObjectShortName">holdData_valid</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/valid_offset" type="logic">
+      <obj_property name="ElementShortName">valid_offset</obj_property>
+      <obj_property name="ObjectShortName">valid_offset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/valid" type="logic">
+      <obj_property name="ElementShortName">valid</obj_property>
+      <obj_property name="ObjectShortName">valid</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/Data_Type_Conversion3_out1_addr_delay_1" type="array">
+      <obj_property name="ElementShortName">Data_Type_Conversion3_out1_addr_delay_1[18:0]</obj_property>
+      <obj_property name="ObjectShortName">Data_Type_Conversion3_out1_addr_delay_1[18:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/fp_data" type="array">
+      <obj_property name="ElementShortName">fp_data[31:0]</obj_property>
+      <obj_property name="ObjectShortName">fp_data[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/rawData_data" type="logic">
+      <obj_property name="ElementShortName">rawData_data</obj_property>
+      <obj_property name="ObjectShortName">rawData_data</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/status_data" type="array">
+      <obj_property name="ElementShortName">status_data[31:0]</obj_property>
+      <obj_property name="ObjectShortName">status_data[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/holdData_data" type="logic">
+      <obj_property name="ElementShortName">holdData_data</obj_property>
+      <obj_property name="ObjectShortName">holdData_data</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/data_offset" type="logic">
+      <obj_property name="ElementShortName">data_offset</obj_property>
+      <obj_property name="ObjectShortName">data_offset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/data" type="logic">
+      <obj_property name="ElementShortName">data</obj_property>
+      <obj_property name="ObjectShortName">data</obj_property>
+      <obj_property name="CustomSignalColor">#00FFFF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/holdData_codeRateIndex" type="array">
+      <obj_property name="ElementShortName">holdData_codeRateIndex[1:0]</obj_property>
+      <obj_property name="ObjectShortName">holdData_codeRateIndex[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/codeRateIndex_offset" type="array">
+      <obj_property name="ElementShortName">codeRateIndex_offset[1:0]</obj_property>
+      <obj_property name="ObjectShortName">codeRateIndex_offset[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/codeRateIndex_1" type="array">
+      <obj_property name="ElementShortName">codeRateIndex_1[1:0]</obj_property>
+      <obj_property name="ObjectShortName">codeRateIndex_1[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/Data_Type_Conversion5_out1_active" type="logic">
+      <obj_property name="ElementShortName">Data_Type_Conversion5_out1_active</obj_property>
+      <obj_property name="ObjectShortName">Data_Type_Conversion5_out1_active</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/counter" type="array">
+      <obj_property name="ElementShortName">counter[4:0]</obj_property>
+      <obj_property name="ObjectShortName">counter[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/phase_2_all" type="logic">
+      <obj_property name="ElementShortName">phase_2_all</obj_property>
+      <obj_property name="ObjectShortName">phase_2_all</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/phase_2" type="logic">
+      <obj_property name="ElementShortName">phase_2</obj_property>
+      <obj_property name="ObjectShortName">phase_2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/Data_Type_Conversion5_out1_enb" type="logic">
+      <obj_property name="ElementShortName">Data_Type_Conversion5_out1_enb</obj_property>
+      <obj_property name="ObjectShortName">Data_Type_Conversion5_out1_enb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/Data_Type_Conversion5_out1_addr_delay_1" type="array">
+      <obj_property name="ElementShortName">Data_Type_Conversion5_out1_addr_delay_1[18:0]</obj_property>
+      <obj_property name="ObjectShortName">Data_Type_Conversion5_out1_addr_delay_1[18:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/fp_modTypeIndex" type="array">
+      <obj_property name="ElementShortName">fp_modTypeIndex[31:0]</obj_property>
+      <obj_property name="ObjectShortName">fp_modTypeIndex[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/rawData_modTypeIndex" type="array">
+      <obj_property name="ElementShortName">rawData_modTypeIndex[1:0]</obj_property>
+      <obj_property name="ObjectShortName">rawData_modTypeIndex[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/status_modTypeIndex" type="array">
+      <obj_property name="ElementShortName">status_modTypeIndex[31:0]</obj_property>
+      <obj_property name="ObjectShortName">status_modTypeIndex[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/holdData_modTypeIndex" type="array">
+      <obj_property name="ElementShortName">holdData_modTypeIndex[1:0]</obj_property>
+      <obj_property name="ObjectShortName">holdData_modTypeIndex[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/modTypeIndex_offset" type="array">
+      <obj_property name="ElementShortName">modTypeIndex_offset[1:0]</obj_property>
+      <obj_property name="ObjectShortName">modTypeIndex_offset[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/modTypeIndex" type="array">
+      <obj_property name="ElementShortName">modTypeIndex[1:0]</obj_property>
+      <obj_property name="ObjectShortName">modTypeIndex[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/snkDone" type="logic">
+      <obj_property name="ElementShortName">snkDone</obj_property>
+      <obj_property name="ObjectShortName">snkDone</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/snkDonen" type="logic">
+      <obj_property name="ElementShortName">snkDonen</obj_property>
+      <obj_property name="ObjectShortName">snkDonen</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/tb_enb" type="logic">
+      <obj_property name="ElementShortName">tb_enb</obj_property>
+      <obj_property name="ObjectShortName">tb_enb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/notDone" type="logic">
+      <obj_property name="ElementShortName">notDone</obj_property>
+      <obj_property name="ObjectShortName">notDone</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/txValid" type="logic">
+      <obj_property name="ElementShortName">txValid</obj_property>
+      <obj_property name="ObjectShortName">txValid</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/txData_re" type="array">
+      <obj_property name="ElementShortName">txData_re[15:0]</obj_property>
+      <obj_property name="ObjectShortName">txData_re[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/txData_im" type="array">
+      <obj_property name="ElementShortName">txData_im[15:0]</obj_property>
+      <obj_property name="ObjectShortName">txData_im[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/Out3" type="logic">
+      <obj_property name="ElementShortName">Out3</obj_property>
+      <obj_property name="ObjectShortName">Out3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/Out4_re" type="array">
+      <obj_property name="ElementShortName">Out4_re[17:0]</obj_property>
+      <obj_property name="ObjectShortName">Out4_re[17:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FFFF00</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_ANALOG</obj_property>
+      <obj_property name="CellHeight">100</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      <obj_property name="radix_realType">SIGNEDFIXEDPOINTRADIX</obj_property>
+      <obj_property name="radix_fractionWidth">15</obj_property>
+      <obj_property name="radix_otherWidth">0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/Out4_im" type="array">
+      <obj_property name="ElementShortName">Out4_im[17:0]</obj_property>
+      <obj_property name="ObjectShortName">Out4_im[17:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FFFF00</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_ANALOG</obj_property>
+      <obj_property name="CellHeight">100</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+      <obj_property name="radix_realType">SIGNEDFIXEDPOINTRADIX</obj_property>
+      <obj_property name="radix_fractionWidth">15</obj_property>
+      <obj_property name="radix_otherWidth">0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/ready" type="logic">
+      <obj_property name="ElementShortName">ready</obj_property>
+      <obj_property name="ObjectShortName">ready</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/txValid_enb" type="logic">
+      <obj_property name="ElementShortName">txValid_enb</obj_property>
+      <obj_property name="ObjectShortName">txValid_enb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/txValid_lastAddr" type="logic">
+      <obj_property name="ElementShortName">txValid_lastAddr</obj_property>
+      <obj_property name="ObjectShortName">txValid_lastAddr</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/check1_done" type="logic">
+      <obj_property name="ElementShortName">check1_done</obj_property>
+      <obj_property name="ObjectShortName">check1_done</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/txValid_addr_delay_1" type="array">
+      <obj_property name="ElementShortName">txValid_addr_delay_1[14:0]</obj_property>
+      <obj_property name="ObjectShortName">txValid_addr_delay_1[14:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/fp_txValid_expected" type="array">
+      <obj_property name="ElementShortName">fp_txValid_expected[31:0]</obj_property>
+      <obj_property name="ObjectShortName">fp_txValid_expected[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/txValid_expected" type="logic">
+      <obj_property name="ElementShortName">txValid_expected</obj_property>
+      <obj_property name="ObjectShortName">txValid_expected</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/status_txValid_expected" type="array">
+      <obj_property name="ElementShortName">status_txValid_expected[31:0]</obj_property>
+      <obj_property name="ObjectShortName">status_txValid_expected[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/txValid_ref_hold" type="logic">
+      <obj_property name="ElementShortName">txValid_ref_hold</obj_property>
+      <obj_property name="ObjectShortName">txValid_ref_hold</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/txValid_refTmp" type="logic">
+      <obj_property name="ElementShortName">txValid_refTmp</obj_property>
+      <obj_property name="ObjectShortName">txValid_refTmp</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/txValid_ref" type="logic">
+      <obj_property name="ElementShortName">txValid_ref</obj_property>
+      <obj_property name="ObjectShortName">txValid_ref</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/txValid_testFailure" type="logic">
+      <obj_property name="ElementShortName">txValid_testFailure</obj_property>
+      <obj_property name="ObjectShortName">txValid_testFailure</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/txData_re_addr_delay_1" type="array">
+      <obj_property name="ElementShortName">txData_re_addr_delay_1[14:0]</obj_property>
+      <obj_property name="ObjectShortName">txData_re_addr_delay_1[14:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/fp_txData_re_expected" type="array">
+      <obj_property name="ElementShortName">fp_txData_re_expected[31:0]</obj_property>
+      <obj_property name="ObjectShortName">fp_txData_re_expected[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/txData_re_expected" type="array">
+      <obj_property name="ElementShortName">txData_re_expected[15:0]</obj_property>
+      <obj_property name="ObjectShortName">txData_re_expected[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/status_txData_re_expected" type="array">
+      <obj_property name="ElementShortName">status_txData_re_expected[31:0]</obj_property>
+      <obj_property name="ObjectShortName">status_txData_re_expected[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/txData_re_ref_hold" type="array">
+      <obj_property name="ElementShortName">txData_re_ref_hold[15:0]</obj_property>
+      <obj_property name="ObjectShortName">txData_re_ref_hold[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/txData_re_refTmp" type="array">
+      <obj_property name="ElementShortName">txData_re_refTmp[15:0]</obj_property>
+      <obj_property name="ObjectShortName">txData_re_refTmp[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/txData_re_ref" type="array">
+      <obj_property name="ElementShortName">txData_re_ref[15:0]</obj_property>
+      <obj_property name="ObjectShortName">txData_re_ref[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/txData_re_testFailure" type="logic">
+      <obj_property name="ElementShortName">txData_re_testFailure</obj_property>
+      <obj_property name="ObjectShortName">txData_re_testFailure</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/fp_txData_im_expected" type="array">
+      <obj_property name="ElementShortName">fp_txData_im_expected[31:0]</obj_property>
+      <obj_property name="ObjectShortName">fp_txData_im_expected[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/txData_im_expected" type="array">
+      <obj_property name="ElementShortName">txData_im_expected[15:0]</obj_property>
+      <obj_property name="ObjectShortName">txData_im_expected[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/status_txData_im_expected" type="array">
+      <obj_property name="ElementShortName">status_txData_im_expected[31:0]</obj_property>
+      <obj_property name="ObjectShortName">status_txData_im_expected[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/txData_im_ref_hold" type="array">
+      <obj_property name="ElementShortName">txData_im_ref_hold[15:0]</obj_property>
+      <obj_property name="ObjectShortName">txData_im_ref_hold[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/txData_im_refTmp" type="array">
+      <obj_property name="ElementShortName">txData_im_refTmp[15:0]</obj_property>
+      <obj_property name="ObjectShortName">txData_im_refTmp[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/txData_im_ref" type="array">
+      <obj_property name="ElementShortName">txData_im_ref[15:0]</obj_property>
+      <obj_property name="ObjectShortName">txData_im_ref[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/txData_im_testFailure" type="logic">
+      <obj_property name="ElementShortName">txData_im_testFailure</obj_property>
+      <obj_property name="ObjectShortName">txData_im_testFailure</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/Out3_addr_delay_1" type="array">
+      <obj_property name="ElementShortName">Out3_addr_delay_1[14:0]</obj_property>
+      <obj_property name="ObjectShortName">Out3_addr_delay_1[14:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/fp_Out3_expected" type="array">
+      <obj_property name="ElementShortName">fp_Out3_expected[31:0]</obj_property>
+      <obj_property name="ObjectShortName">fp_Out3_expected[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/Out3_expected" type="logic">
+      <obj_property name="ElementShortName">Out3_expected</obj_property>
+      <obj_property name="ObjectShortName">Out3_expected</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/status_Out3_expected" type="array">
+      <obj_property name="ElementShortName">status_Out3_expected[31:0]</obj_property>
+      <obj_property name="ObjectShortName">status_Out3_expected[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/Out3_ref_hold" type="logic">
+      <obj_property name="ElementShortName">Out3_ref_hold</obj_property>
+      <obj_property name="ObjectShortName">Out3_ref_hold</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/Out3_refTmp" type="logic">
+      <obj_property name="ElementShortName">Out3_refTmp</obj_property>
+      <obj_property name="ObjectShortName">Out3_refTmp</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/Out3_ref" type="logic">
+      <obj_property name="ElementShortName">Out3_ref</obj_property>
+      <obj_property name="ObjectShortName">Out3_ref</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/Out3_testFailure" type="logic">
+      <obj_property name="ElementShortName">Out3_testFailure</obj_property>
+      <obj_property name="ObjectShortName">Out3_testFailure</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/Out4_re_addr_delay_1" type="array">
+      <obj_property name="ElementShortName">Out4_re_addr_delay_1[14:0]</obj_property>
+      <obj_property name="ObjectShortName">Out4_re_addr_delay_1[14:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/fp_Out4_re_expected" type="array">
+      <obj_property name="ElementShortName">fp_Out4_re_expected[31:0]</obj_property>
+      <obj_property name="ObjectShortName">fp_Out4_re_expected[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/Out4_re_expected" type="array">
+      <obj_property name="ElementShortName">Out4_re_expected[17:0]</obj_property>
+      <obj_property name="ObjectShortName">Out4_re_expected[17:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/status_Out4_re_expected" type="array">
+      <obj_property name="ElementShortName">status_Out4_re_expected[31:0]</obj_property>
+      <obj_property name="ObjectShortName">status_Out4_re_expected[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/Out4_re_ref_hold" type="array">
+      <obj_property name="ElementShortName">Out4_re_ref_hold[17:0]</obj_property>
+      <obj_property name="ObjectShortName">Out4_re_ref_hold[17:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/Out4_re_refTmp" type="array">
+      <obj_property name="ElementShortName">Out4_re_refTmp[17:0]</obj_property>
+      <obj_property name="ObjectShortName">Out4_re_refTmp[17:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/Out4_re_ref" type="array">
+      <obj_property name="ElementShortName">Out4_re_ref[17:0]</obj_property>
+      <obj_property name="ObjectShortName">Out4_re_ref[17:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/Out4_re_testFailure" type="logic">
+      <obj_property name="ElementShortName">Out4_re_testFailure</obj_property>
+      <obj_property name="ObjectShortName">Out4_re_testFailure</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/fp_Out4_im_expected" type="array">
+      <obj_property name="ElementShortName">fp_Out4_im_expected[31:0]</obj_property>
+      <obj_property name="ObjectShortName">fp_Out4_im_expected[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/Out4_im_expected" type="array">
+      <obj_property name="ElementShortName">Out4_im_expected[17:0]</obj_property>
+      <obj_property name="ObjectShortName">Out4_im_expected[17:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/status_Out4_im_expected" type="array">
+      <obj_property name="ElementShortName">status_Out4_im_expected[31:0]</obj_property>
+      <obj_property name="ObjectShortName">status_Out4_im_expected[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/Out4_im_ref_hold" type="array">
+      <obj_property name="ElementShortName">Out4_im_ref_hold[17:0]</obj_property>
+      <obj_property name="ObjectShortName">Out4_im_ref_hold[17:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/Out4_im_refTmp" type="array">
+      <obj_property name="ElementShortName">Out4_im_refTmp[17:0]</obj_property>
+      <obj_property name="ObjectShortName">Out4_im_refTmp[17:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/Out4_im_ref" type="array">
+      <obj_property name="ElementShortName">Out4_im_ref[17:0]</obj_property>
+      <obj_property name="ObjectShortName">Out4_im_ref[17:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/Out4_im_testFailure" type="logic">
+      <obj_property name="ElementShortName">Out4_im_testFailure</obj_property>
+      <obj_property name="ObjectShortName">Out4_im_testFailure</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/ready_addr_delay_1" type="array">
+      <obj_property name="ElementShortName">ready_addr_delay_1[18:0]</obj_property>
+      <obj_property name="ObjectShortName">ready_addr_delay_1[18:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/fp_ready_expected" type="array">
+      <obj_property name="ElementShortName">fp_ready_expected[31:0]</obj_property>
+      <obj_property name="ObjectShortName">fp_ready_expected[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/ready_expected" type="logic">
+      <obj_property name="ElementShortName">ready_expected</obj_property>
+      <obj_property name="ObjectShortName">ready_expected</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/status_ready_expected" type="array">
+      <obj_property name="ElementShortName">status_ready_expected[31:0]</obj_property>
+      <obj_property name="ObjectShortName">status_ready_expected[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/ready_ref_hold" type="logic">
+      <obj_property name="ElementShortName">ready_ref_hold</obj_property>
+      <obj_property name="ObjectShortName">ready_ref_hold</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/ready_refTmp" type="logic">
+      <obj_property name="ElementShortName">ready_refTmp</obj_property>
+      <obj_property name="ObjectShortName">ready_refTmp</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/ready_ref" type="logic">
+      <obj_property name="ElementShortName">ready_ref</obj_property>
+      <obj_property name="ObjectShortName">ready_ref</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/ready_testFailure" type="logic">
+      <obj_property name="ElementShortName">ready_testFailure</obj_property>
+      <obj_property name="ObjectShortName">ready_testFailure</obj_property>
+   </wvobject>
+   <wvobject fp_name="/OFDM_UC_tb/testFailure" type="logic">
+      <obj_property name="ElementShortName">testFailure</obj_property>
+      <obj_property name="ObjectShortName">testFailure</obj_property>
+   </wvobject>
+</wave_config>

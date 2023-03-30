@@ -1,0 +1,1 @@
+-wto "14fa89fdb7d54d478d0fa3f580346094" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" -L "xpm" --snapshot "OFDM_UC_tb_behav" "xil_defaultlib.OFDM_UC_tb" "xil_defaultlib.glbl" -log "elaborate.log" 
